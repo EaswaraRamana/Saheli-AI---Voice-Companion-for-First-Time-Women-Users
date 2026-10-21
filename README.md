@@ -37,7 +37,7 @@ Start the development server:
 npm run dev
 ```
 
-Open `http://localhost:3000`. The key is read only by the Express server; do not put it in a `VITE_*` variable or commit it.
+Open https://saheli-ai-voice-companion-for-first-time-wom-4jq3-1079615556387.asia-southeast1.run.app to run the application . The key is read only by the Express server; do not put it in a `VITE_*` variable or commit it.
 
 ## Scripts
 
